@@ -39,15 +39,12 @@ Interactive filters for dynamic insights
 
 📈 Key Insights
 
-The highest total yield was recorded in [Region Name] with XXXX kg/hectare
+The highest total yield was recorded in Central USA with 437.43 kg
 
-The top-performing crop is [Crop Name], contributing XX% of total production
+The top-performing crop is Soya Bean, contributing 23% of total production
 
-A growth trend of XX% was observed between [Year] and [Year]
+South USA shows consistently low productivity, indicating scope for improvement
 
-[Region Name] shows consistently low productivity, indicating scope for improvement
-
-Seasonal patterns show that [Season/Month] has the highest production
 
 🎯 Project Outcome
 
